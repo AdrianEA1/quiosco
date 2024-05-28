@@ -23,8 +23,8 @@ export default function ProductCard({product} : ProductCardProps){
                 <p className="mt-5 font-black text-4xl text-amber-500">
                     {formatCurrency(product.price)}
                 </p>
-                <AddProductButton 
-                key={product.id}/>
+                {/* <AddProductButton 
+                key={product.id}/> */}
             </div>
         </div>
     )
