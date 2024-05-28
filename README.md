@@ -14,6 +14,16 @@ pnpm dev
 bun dev
 ```
 
+
+## VERSION DEL QUIOSCO 0.5V
+
+En esta primera versión se agegaron los siguientes elementos
+
+1. Un listado de las categorias en la vista del cliente/servidor.
+2. Si una categoria es seleccionada, en la misma vista se actualiza los productos pertenecientes a esa categoria.
+3. En los productos que se muestran, tambien se agregaron los estilos pertienentes para el atractivo visual.
+4. En los proximos días se va a agregar los products a un carrito de compras
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
