@@ -15,7 +15,7 @@ bun dev
 ```
 
 
-## VERSION DEL QUIOSCO 0.5V
+## VERSION DEL QUIOSCO 0.5
 
 En esta primera versión se agegaron los siguientes elementos
 
@@ -24,20 +24,15 @@ En esta primera versión se agegaron los siguientes elementos
 3. En los productos que se muestran, tambien se agregaron los estilos pertienentes para el atractivo visual.
 4. En los proximos días se va a agregar los products a un carrito de compras
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## VERSIÓN DEL QUIOSCO 1.0
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+En esta segunda versión se agregaron los siguientes elementos
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Se agrego la posibildiad de agregar los productos al carrito de compras.
+2. Se agrego la posibilidad de aumentar o decrementar la cantidad de productos en el pedido.
+3. Se agrego la funcionalidad de eliminar los productos del pedido.
+4. Se visualiza la cantidad o el monto a pagar por los productos.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
