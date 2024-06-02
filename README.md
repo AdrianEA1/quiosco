@@ -33,6 +33,12 @@ En esta segunda versión se agregaron los siguientes elementos
 3. Se agrego la funcionalidad de eliminar los productos del pedido.
 4. Se visualiza la cantidad o el monto a pagar por los productos.
 
+## VERSIÓN DEL QUIOSCO 1.5
+1. Ahora el cocinero puede observar las ordenes pendientes y marcarls como listas
+2. El administrador puede observar los productos que hay en la base de datos
+3. También puede buscar los productos que empiecen con algun nombre
+4. Puede ahora agregar productos en la base de datos
+5. Navegación entre las diferentes secciones del quiosco
 
 ## Deploy on Vercel
 
