@@ -5,7 +5,7 @@ export type OrderItem = Pick<Product, 'id' | 'name' | 'price'> & {
     subtotal: number
 }
 
-export type orderWithProducts = Order & {
+export type OrderWithProducts = Order & {
     orderProducts: (OrderProducts & {
         product: Product
     })[]

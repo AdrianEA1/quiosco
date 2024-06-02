@@ -40,6 +40,11 @@ En esta segunda versión se agregaron los siguientes elementos
 4. Puede ahora agregar productos en la base de datos
 5. Navegación entre las diferentes secciones del quiosco
 
+## VERSIÓN DEL QUIOSCO 2.0.0
+1. Ahora los clientes puede observar las ordenes listas
+2. Se puede editar los productos que se tienen en la base de datos
+3. Todo en orden.
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
